@@ -1,0 +1,4 @@
+Domain {
+    tls demo@Domain
+    log /var/log/caddy.log
+   }
